@@ -1,0 +1,45 @@
+html{
+    font-family: calibri;
+}
+
+h1 {
+    text-align: center;
+}
+
+#myForm {
+    height: auto;
+    width: 80%;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+
+.Buttons {
+    height: 100px;
+    width: 80%;
+    margin-left: 10%;
+    margin-right: 10%;
+    padding: 20px;
+}
+
+.Style {
+    height: 100px;
+    width: 80%;
+    margin-left: 10%;
+    margin-right: 10%;
+    border-style: groove;
+}
+
+.imgStyle {
+    height: 95px;
+    width: 20%;
+    float: left;
+    text-align: center;
+    padding-top: 5px;
+}
+
+.textStyle {
+    height: 80px;
+    width: 80%;
+    float: left;
+    padding-top: 20px;
+}
